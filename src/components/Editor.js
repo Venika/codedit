@@ -24,6 +24,7 @@ export default function Editor(props) {
     const [open, setOpen] = useState(true)
 
     return (
+        
         <div className= {`editor-container ${open ? '': 'collapsed'} `}>
             
             <div className="editor-title">
