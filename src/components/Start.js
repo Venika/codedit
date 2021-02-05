@@ -32,7 +32,7 @@ const Start = () => {
                     </div>
                 
                     <div className="mainimg">
-                    <a href="/edit"><img className="testimg" src={logo}  alt="Codedit" style={{width:'95%', height:'95%'}} /></a>
+                    <a href="/edit"><img className="testimg" src={logo}  alt="Codedit" style={{width:'85%', height:'85%'}} /></a>
                     </div>
                 </div> 
 
