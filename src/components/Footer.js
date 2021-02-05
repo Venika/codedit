@@ -7,10 +7,10 @@ const Footer = () => {
             <div><i className="fas fa-times-circle"> 0</i>&nbsp;&nbsp; 
             <i className="fas fa-exclamation-triangle"> 0</i> </div>
             <div>&copy; 2021 Venika Gaur</div>
-            <div>Ln 9, Col 20</div>
+            <div>Ln 9, Col 2</div>
             <div>UTF-8</div>
             <div>CRLF</div>
-            <div>JavaScript </div>    
+            <div>JS </div>    
     </footer>
     )
 

@@ -318,7 +318,7 @@ html, body {
 
     /* Header */
 .heading{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 
 .navbtn{
@@ -345,20 +345,21 @@ html, body {
 
 .content{
     display: flex;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     padding: 0.6rem;
 }
 
 .Para{
     font-size: 1rem;
     width: 80%;
-    padding-top: 0.5rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.2rem;
 }
 
 
 .blue2{ 
-    font-size: 1.3rem;
-    padding-bottom: 0.8rem;
+    font-size: 1.1rem;
+    padding-bottom: 0.3rem;
 }
 
 .top{
