@@ -6,7 +6,7 @@ I wanted to create an IDE similar to VS code but in my browser. I began with res
 
 # Demo
 To try out the app, visit https://codedit.herokuapp.com/     
-Works best in desktop browsers.
+Works best in desktop browsers. (Heroku may take some time to load)
 
 # Installation
 To run the app for yourself, clone the directory. After that, run the following commands in terminal-    
